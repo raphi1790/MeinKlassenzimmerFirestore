@@ -1,0 +1,34 @@
+.mat-card-header {
+    display: grid;
+  }  
+  .mat-card{
+      margin-left: auto;
+      margin-right: auto;
+      width: 80%;
+  }
+  
+img{
+    border:2px solid #979599;
+}
+ .avatar-image{
+     width: 75px;
+     height: 75px;
+     margin-top: 15px;
+ }
+ .contact-card{
+     width: 360px;
+ }
+ address {
+    font-style: normal;
+    display:block;
+    font-style: italic;
+}
+.adresse{
+    text-align: center;
+}
+.contact-text{
+    text-align: center;
+}
+.col-md-3{
+    padding-left: 0px;
+}
